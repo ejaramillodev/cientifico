@@ -14,7 +14,8 @@ const Header = () => {
           </a>
         </div>
      </div>    
-    `;
+    `; 
+    return view;
+};
 
-  export default Header;  
-}
+export default Header;  
